@@ -4,6 +4,8 @@ Bu Repo Kodluyoruz [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitimin
 # Proje içi görüntü
 ![proje_içi_goruntu](project_image.png "Proje içi görüntü")
 
+# Readme görüntü
+![readme_goruntu](readme_image.png)
 # Installation 
 
 Öncelikle projeyi clone'layın. (https://github.com/alibalbars/kodluyoruzilkrepo.git)
