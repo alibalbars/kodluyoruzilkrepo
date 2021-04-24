@@ -29,8 +29,17 @@ nav .navbar-nav li.nav-item {
   align-items: center;
 }
 
-.nav-link {
+li.nav-link {
   padding: .5rem 0.7rem;
+}
+
+.card>.list-group {
+  border: none;
+}
+
+.nav-header {
+  max-width: 870px;
+  margin: 0 auto;
 }
 
 
