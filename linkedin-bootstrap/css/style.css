@@ -28,6 +28,27 @@ nav {
   background-color: rgba(0, 0, 0, 0.08);
 }
 
+.interaction-buttons{
+  display: flex;
+}
+
+.interaction-buttons button {
+  border: none;
+  padding: 7px 10px;
+  border-radius: 3px;
+  margin: 0 5px;
+  /* background-color: black !important; */
+}
+
+.interaction-buttons button i {
+  display: flex;
+  align-items: center;
+}
+
+.interaction-buttons button * {
+  font-size: 0.8rem;
+}
+
 
 
 /* nav .navbar-collapse, nav .navbar-collapse ul {
@@ -74,7 +95,7 @@ input.searche::placeholder {
   font-size: 13px;
   font-family: Arial, Helvetica, sans-serif;
   color: gray;
-  margin-top: 5px;
+  margin-top: 3px;
   font-weight: lighter;
 }
 
@@ -173,5 +194,4 @@ button.ref:hover {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   font-size: 14px;
-  margin-left: 8px;
 }
